@@ -1,0 +1,7 @@
+POST http://localhost:8080/request-body-json HTTP/1.1
+Content-Type: application/json
+
+{
+  "username" : "agh",
+  "age" : 20
+}
